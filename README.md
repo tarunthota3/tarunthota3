@@ -16,6 +16,7 @@ Hi, I'm Tarun Thota, a certified full-stack developer, currently pursuing Master
 
 - 🔭 I’m currently upgrading my skill set in Machine Learning and Python
 - 🌱 I’m currently contributing on [Leetcode-Solutions](https://github.com/tarunthota3/leetcode-solutions)
+- 💬 Ask me about anything [here](https://tarunthota3.github.io/#contact)
 
 <a href="https://github-readme-stats.vercel.app/api?username=tarunthota3&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunthota3&show_icons=true&theme=gruvbox" alt="Tarun Thota's github stats" />
