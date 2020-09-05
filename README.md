@@ -18,13 +18,13 @@ Hi, I'm Tarun Thota, a certified full-stack developer, currently pursuing Master
 - 🌱 I’m currently contributing on [Leetcode-Solutions](https://github.com/tarunthota3/leetcode-solutions)
 
 <a href="https://github-readme-stats.vercel.app/api?username=tarunthota3&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunthota3&show_icons=true&theme=merko" alt="Tarun Thota's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunthota3&show_icons=true&theme=gruvbox" alt="Tarun Thota's github stats" />
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunthota3&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunthota3&layout=compact" alt="Tarun Thota's Most Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunthota3&layout=compact&theme=gruvbox" alt="Tarun Thota's Most Used Languages" />
 </a>
 <br/>
 <a href="https://tarunthota3.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarunthota3&repo=tarunthota3.github.io" alt="Tarun Thota's Portfolio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarunthota3&repo=tarunthota3.github.io&theme=gruvbox" alt="Tarun Thota's Portfolio" />
 </a>
