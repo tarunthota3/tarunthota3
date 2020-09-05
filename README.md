@@ -25,7 +25,6 @@ Hi, I'm Tarun Thota, a certified full-stack developer, currently pursuing Master
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunthota3&layout=compact" alt="Tarun Thota's Most Used Languages" />
 </a>
 <br/>
-<br/>
 <a href="https://tarunthota3.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarunthota3&repo=tarunthota3.github.io" alt="Tarun Thota's Portfolio" />
 </a>
