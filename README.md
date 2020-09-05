@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-Hi, I'm Tarun Thota, a certified full-stack developer, currently pursuing Master's degree in the field of Computer Science at University of North Carolina at Charlotte.
+Hi, I'm Tarun Thota, a certified full-stack developer, currently pursuing Masters in Computer Science at University of North Carolina at Charlotte.
 
 - 🔭 I’m currently upgrading my skill set in Machine Learning and Python
 - 🌱 I’m currently contributing on [Leetcode-Solutions](https://github.com/tarunthota3/leetcode-solutions)
