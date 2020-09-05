@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there. I'm Tarun Thota 👋
+
+Hi, I'm Tarun Thota, a certified full-stack developer, currently pursuing Master's degree in the field of Computer Science at University of North Carolina at Charlotte.
 
 <!--
 **tarunthota3/tarunthota3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
