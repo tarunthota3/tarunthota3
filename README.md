@@ -1,4 +1,4 @@
-### Hi there, I'm [Tarun Thota](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Tarun Thota](https://tarunthota3.github.io) 👋
 
 <a href="https://github.com/tarunthota3">
   <img align="left" alt="Tarun Thota | Github" width="20px" src="https://raw.githubusercontent.com/tarunthota3/tarunthota3/5ace80601e6d3e5777bb9309c3349e9f0dd42c93/assets/github-logo.svg" />
